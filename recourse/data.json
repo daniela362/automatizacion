@@ -1,0 +1,54 @@
+{
+    "registro": [
+      {
+        "full_name": "Mateo Bermudez",
+        "email": "mateo@gmail.com",
+        "password": "Mateo12*",
+        "repeat_password": "Mateo12*"
+      },
+      {
+        "full_name": "Daniela",
+        "email": "daniela@gmail.com",
+        "password": "Daniela12*",
+        "repeat_password": "Daniela12*"
+      },
+      {
+        "full_name": "Tereza Montaña",
+        "email": "Montaña",
+        "password": "Montaña1*",
+        "repeat_password": "Montaña1*"
+      },
+      {
+        "full_name": "Lilia Florez",
+        "email": "lilia@hotmail.com",
+        "password": "Lilia1",
+        "repeat_password": "Lilia1"
+      },
+      {
+        "full_name": "Juan Martinez",
+        "email": "juan@hotmail.com",
+        "password": "juanmatinez1*",
+        "repeat_password": "juanmatinez1*"
+      },
+      {
+        "full_name": "Pedro Hernandez",
+        "email": "pedro@hotmail.com",
+        "password": "PEDROHE1*",
+        "repeat_password": "PEDROHE1*"
+      },
+      {
+        "full_name": "Maria Florez",
+        "email": "maria@hotmail.com",
+        "password": "Florezma*",
+        "repeat_password": "Florezma*"
+      },
+      {
+        "full_name": "lady daniela reyes jaramillo",
+        "email": "ladydaniela345",
+        "password": "Forest78",
+        "repeat_password": "Forest78*"
+      }
+
+
+    ]
+  }
